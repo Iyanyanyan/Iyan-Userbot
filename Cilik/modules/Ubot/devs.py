@@ -80,12 +80,12 @@ async def evaluate(client: Client, message: Message):
 
 
 kopi = [
-    "**Hadir Bang** 😁",
-    "**Hadir kak** 😉",
-    "**Hadir dong** 😁",
+    "**Hadir Bang Iyan** 😁",
+    "**Hadir kak iyan** 😉",
+    "**Hadir dong yan** 😁",
     "**Hadir ganteng** 🥵",
     "**Hadir bro** 😎",
-    "**Hadir kak maap telat** 🥺",
+    "**Hadir kak maap telat yan** 🥺",
 ]
 
 
