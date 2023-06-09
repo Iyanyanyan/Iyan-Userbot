@@ -18,7 +18,7 @@ from PIL import Image, ImageDraw, ImageFont
 absen = [
     "**Hadir bang yan** 😁",
     "**Hadir kak yan** 😉",
-    "**Hadir dong ysn** 😁",
+    "**Hadir dong yan** 😁",
     "**Hadir ganteng** 🥵",
     "**Hadir bro** 😎",
     "**Hadir kak maap telat yan** 🥺",
