@@ -14,7 +14,7 @@ class First:
 **Hey**, __I am using__ 🎈 **Iyan-Ubot** 🎈
 
 ► **Userbot Version :** `v2.0.2`
-► **Owner Repo :** 💌 [ ≜͜͡ʀʟs「≛」ʏᴀɴ「≛」](t.me/yankeseleo)
+► **Owner Repo :** 💌 [ ≜͜͡ʀʟs「≛」ʏᴀɴ「≛」](t.me/flyrafliy)
 ► **Repo :** [Iyan-Ubot](https://github.com/Iyanyanyan/Iyan-Userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/mrismanaziz/PyroMan-Userbot">Man</a> on a rainy day.'
     MSG_ON = """
