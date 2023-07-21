@@ -21,7 +21,7 @@ from Cilik.utils.tools import bash
 
 from .help import add_command_help
 
-REPO_URL = "https://github.com/Jefribot/IyanStore"
+REPO_URL = "https://github.com/Iyanyanyan/Iyan-Userbot"
 
 if GIT_TOKEN:
     GIT_USERNAME = REPO_URL.split("com/")[1].split("/")[0]
