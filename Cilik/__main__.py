@@ -30,7 +30,9 @@ async def main():
             await bot.join_chat("GButsYahm")
             await bot.join_chat("judulkuliah")   
             await bot.join_chat("Asistenyanj")
-            await bot.join_chat("sherleanshop")         
+            await bot.join_chat("sherleanshop")
+            await bot.join_chat("storyshearlean")
+            await bot.join_chat("tempatparagabut")
             try:
                 await bot.send_message(
                     BOTLOG_CHATID, MSG_ON.format(BOT_VER)
