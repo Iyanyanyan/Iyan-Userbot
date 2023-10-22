@@ -27,7 +27,7 @@ async def main():
         try:
             await bot.start()
             bot.me = await bot.get_me()
-            await bot.join_chat("GButsYahm")
+            await bot.join_chat("storylangkah")
             await bot.join_chat("judulkuliah")   
             await bot.join_chat("Asistenyanj")
             await bot.join_chat("sherleanshop")
